@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-05T14:44:31 IST" name="Default suite" finished-at="2024-08-05T14:44:47 IST" duration-ms="15491">
+    <groups>
+    </groups>
+    <test started-at="2024-08-05T14:44:31 IST" name="Default test" finished-at="2024-08-05T14:44:47 IST" duration-ms="15491">
+      <class name="com.testCases.CustomerFunctionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testCases.CustomerFunctionality@2a798d51]" started-at="2024-08-05T14:44:31 IST" name="setUp" finished-at="2024-08-05T14:44:37 IST" duration-ms="5696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginAsCustomer()[pri:0, instance:com.testCases.CustomerFunctionality@2a798d51]" started-at="2024-08-05T14:44:37 IST" name="loginAsCustomer" finished-at="2024-08-05T14:44:40 IST" duration-ms="2697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsCustomer -->
+        <test-method signature="testTransactions()[pri:0, instance:com.testCases.CustomerFunctionality@2a798d51]" started-at="2024-08-05T14:44:40 IST" name="testTransactions" finished-at="2024-08-05T14:44:47 IST" depends-on-methods="com.testCases.CustomerFunctionality.loginAsCustomer" duration-ms="7001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTransactions -->
+      </class> <!-- com.testCases.CustomerFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

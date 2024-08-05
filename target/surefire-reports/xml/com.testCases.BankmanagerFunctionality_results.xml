@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BankmanagerFunctionalityTest"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="28.546">
+  <properties />
+  
+  
+            <testcase name="TestaddCustomer" time="3.164" classname="com.testCases.BankmanagerFunctionality" />
+                <testcase name="loginAsBankManager" time="6.581" classname="com.testCases.BankmanagerFunctionality" />
+                <testcase name="TestaddCustomer" time="2.864" classname="com.testCases.BankmanagerFunctionality" />
+                <testcase name="TestaddCustomer" time="2.921" classname="com.testCases.BankmanagerFunctionality" />
+                <testcase name="TestaddCustomer" time="2.801" classname="com.testCases.BankmanagerFunctionality" />
+                <testcase name="openAccountTest" time="8.581" classname="com.testCases.BankmanagerFunctionality" />
+                <testcase name="ViewAccountstest" time="1.634" classname="com.testCases.BankmanagerFunctionality" />
+      
+</testsuite>

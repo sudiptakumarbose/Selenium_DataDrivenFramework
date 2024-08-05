@@ -1,0 +1,4 @@
+INFO    2024-08-05 14:44:32,719 [main] com.base.TestBase  - Loading the config.properties file
+INFO    2024-08-05 14:44:36,238 [main] com.base.TestBase  - Initializing chromedriver
+INFO    2024-08-05 14:44:37,314 [main] com.base.TestBase  - Loading the base Url !
+INFO    2024-08-05 14:44:38,577 [main] com.base.TestBase  - clicking on the bank manager login button !: [[ChromeDriver: chrome on windows (f53a3778255f30ae627ee7572a7f4d83)] -> xpath: //button[text()='Customer Login']]
